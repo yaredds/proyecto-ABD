@@ -4,7 +4,19 @@
 *Facultad de Ingeniería de Sistemas e Informática (FISI)*  
 *Escuela Profesional de Ingeniería de Sistemas (EPIS)*  
 **Curso:** Administración de Base de Datos (Semestre 2026-2)  
+**Docente:** Jorge Luis Chavez Soto  
 **Entrega:** Entrega Parcial 2  
+
+### Integrantes
+
+| Apellidos y Nombres | Código |
+| :--- | :--- |
+| Montero Chicoma, Fabio Ricardo | 24200113 |
+| Castro Loayza, Yared Benjamin | 24200094 |
+| Bellodas Ramos, Emily Guisell | 24200080 |
+| Vargas Quispe, Sebastian Alexandre | 24200131 |
+| Palacios Ccahuay, Edison Gabriel | 24200118 |
+| Puerta Alvares, Eillen Ivette | 24200120 |
 
 ---
 
